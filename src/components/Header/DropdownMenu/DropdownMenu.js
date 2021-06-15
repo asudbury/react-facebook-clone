@@ -18,11 +18,7 @@ import ChatBubbleIcon from "@material-ui/icons/ChatBubble";
 import MailIcon from "@material-ui/icons/Mail";
 import ReportIcon from "@material-ui/icons/Report";
 
-// context api
-import { useStateValue } from "../../../state/Provider";
-
 const DropdownMenu = () => {
-  const [{ user }] = useStateValue();
   const [activeMenu, setActiveMenu] = useState("main");
   const [menuHeight, setMenuHeight] = useState(null);
   const dropdownRef = useRef(null);
