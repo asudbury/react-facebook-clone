@@ -1,7 +1,8 @@
 {
   "name": "react-facebook-clone",
+  "homepage": "http://asudbury.github.io/react-facebook-clone",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
