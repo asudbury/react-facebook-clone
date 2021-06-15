@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9ce97e95c2930518321ad13b560e405",
+    "revision": "308b2f8712c645b4d316da96cd9e0ace",
     "url": "/react-facebook-clone/index.html"
   },
   {
-    "revision": "db8604a383cf21a2bd20",
-    "url": "/react-facebook-clone/static/css/main.f01575f3.chunk.css"
+    "revision": "995571532a1dd14b833f",
+    "url": "/react-facebook-clone/static/css/main.67872bb6.chunk.css"
   },
   {
-    "revision": "a2a01bc140b7b92607ef",
-    "url": "/react-facebook-clone/static/js/2.d8875bbd.chunk.js"
+    "revision": "81328f66cb8d74eeeb79",
+    "url": "/react-facebook-clone/static/js/2.e3ee7efd.chunk.js"
   },
   {
     "revision": "5f8be6edcb631ea3c834b8459dc2c264",
-    "url": "/react-facebook-clone/static/js/2.d8875bbd.chunk.js.LICENSE.txt"
+    "url": "/react-facebook-clone/static/js/2.e3ee7efd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db8604a383cf21a2bd20",
-    "url": "/react-facebook-clone/static/js/main.99975a76.chunk.js"
+    "revision": "995571532a1dd14b833f",
+    "url": "/react-facebook-clone/static/js/main.527dcd89.chunk.js"
   },
   {
     "revision": "01110c454a91783259dd",

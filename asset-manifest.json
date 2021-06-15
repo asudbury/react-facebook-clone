@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-facebook-clone/static/css/main.f01575f3.chunk.css",
-    "main.js": "/react-facebook-clone/static/js/main.99975a76.chunk.js",
-    "main.js.map": "/react-facebook-clone/static/js/main.99975a76.chunk.js.map",
+    "main.css": "/react-facebook-clone/static/css/main.67872bb6.chunk.css",
+    "main.js": "/react-facebook-clone/static/js/main.527dcd89.chunk.js",
+    "main.js.map": "/react-facebook-clone/static/js/main.527dcd89.chunk.js.map",
     "runtime-main.js": "/react-facebook-clone/static/js/runtime-main.2e9ff287.js",
     "runtime-main.js.map": "/react-facebook-clone/static/js/runtime-main.2e9ff287.js.map",
-    "static/js/2.d8875bbd.chunk.js": "/react-facebook-clone/static/js/2.d8875bbd.chunk.js",
-    "static/js/2.d8875bbd.chunk.js.map": "/react-facebook-clone/static/js/2.d8875bbd.chunk.js.map",
+    "static/js/2.e3ee7efd.chunk.js": "/react-facebook-clone/static/js/2.e3ee7efd.chunk.js",
+    "static/js/2.e3ee7efd.chunk.js.map": "/react-facebook-clone/static/js/2.e3ee7efd.chunk.js.map",
     "index.html": "/react-facebook-clone/index.html",
-    "precache-manifest.76eea803d636c9c9d6fb02a63d9b8755.js": "/react-facebook-clone/precache-manifest.76eea803d636c9c9d6fb02a63d9b8755.js",
+    "precache-manifest.42f569e90ecd92a45fb50dfb1038bbeb.js": "/react-facebook-clone/precache-manifest.42f569e90ecd92a45fb50dfb1038bbeb.js",
     "service-worker.js": "/react-facebook-clone/service-worker.js",
-    "static/css/main.f01575f3.chunk.css.map": "/react-facebook-clone/static/css/main.f01575f3.chunk.css.map",
-    "static/js/2.d8875bbd.chunk.js.LICENSE.txt": "/react-facebook-clone/static/js/2.d8875bbd.chunk.js.LICENSE.txt",
+    "static/css/main.67872bb6.chunk.css.map": "/react-facebook-clone/static/css/main.67872bb6.chunk.css.map",
+    "static/js/2.e3ee7efd.chunk.js.LICENSE.txt": "/react-facebook-clone/static/js/2.e3ee7efd.chunk.js.LICENSE.txt",
     "static/media/arrow.48ae6434.svg": "/react-facebook-clone/static/media/arrow.48ae6434.svg",
     "static/media/bell.e9fd40a7.svg": "/react-facebook-clone/static/media/bell.e9fd40a7.svg",
     "static/media/caret.615e14d1.svg": "/react-facebook-clone/static/media/caret.615e14d1.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2e9ff287.js",
-    "static/js/2.d8875bbd.chunk.js",
-    "static/css/main.f01575f3.chunk.css",
-    "static/js/main.99975a76.chunk.js"
+    "static/js/2.e3ee7efd.chunk.js",
+    "static/css/main.67872bb6.chunk.css",
+    "static/js/main.527dcd89.chunk.js"
   ]
 }
