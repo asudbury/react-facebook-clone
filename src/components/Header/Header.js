@@ -32,16 +32,16 @@ const Header = () => {
 
       <div className="headerCenter">
         <div className="headerOption headerOptionActive">
-          <HomeIcon fontSize="large" />
+          <HomeIcon />
         </div>
         <div className="headerOption">
-          <FlagIcon fontSize="large" />
+          <FlagIcon />
         </div>
         <div className="headerOption">
-          <SubscriptionsOutlinedIcon fontSize="large" />
+          <SubscriptionsOutlinedIcon />
         </div>
         <div className="headerOption">
-          <StorefrontOutlinedIcon fontSize="large" />
+          <StorefrontOutlinedIcon />
         </div>
         <div className="headerOption">
           <SupervisedUserCircleIcon fontSize="large" />
