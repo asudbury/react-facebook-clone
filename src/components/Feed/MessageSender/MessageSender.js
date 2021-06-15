@@ -13,7 +13,7 @@ import { useStateValue } from '../../../state/Provider'
 import db from '../../../firebase'
 
 const MessageSender = () => {
-    const [{ user }, dispatch] = useStateValue();
+    const [{ user }] = useStateValue();
     const [input, setInput] = useState('');
     const [imageUrl, setImageUrl] = useState('');
 

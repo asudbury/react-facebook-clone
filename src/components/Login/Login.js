@@ -12,7 +12,7 @@ import fbTextLogo from '../../img/fbTextLogo.svg'
 import { Button } from '@material-ui/core';
 
 const Login = () => {
-    const [state, dispatch] = useStateValue();
+    const [dispatch] = useStateValue();
 
     const signIn = () => {
         // sign in

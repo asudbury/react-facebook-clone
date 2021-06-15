@@ -22,7 +22,7 @@ import ReportIcon from '@material-ui/icons/Report';
 import { useStateValue } from '../../../state/Provider'
 
 const DropdownMenu = () => {
-    const [{ user }, dispatch] = useStateValue();
+    const [{ user }] = useStateValue();
     const [activeMenu, setActiveMenu] = useState('main');
     const [menuHeight, setMenuHeight] = useState(null);
     const dropdownRef = useRef(null);

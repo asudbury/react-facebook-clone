@@ -29,7 +29,7 @@ import fbLogo from '../../img/fbLogo.webp'
 import { useStateValue } from '../../state/Provider'
 
 const Header = () => {
-    const [{ user }, dispatch] = useStateValue();
+    const [{ user }] = useStateValue();
 
     return (
         <div className="header">
